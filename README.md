@@ -1,3 +1,5 @@
+deployment: https://the-wilde-oasis.netlify.app/
+
 <h1>The Wild Oasis</h1>
 A custom-built application to manage a small boutique hotel: bookings, cabins and guests.<br>
 This is the internal application used inside the hotel to check in guests as they arrive.<br>
