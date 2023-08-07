@@ -25,6 +25,19 @@ The initial app screen should be a dashboard, to display important information f
 Users should be able to define a few application-wide settings: breakfast price, min and max nights/booking, max guests/booking. <br>
 App needs a dark mode. <br>
 
+<h3>TECHNOLOGY DECISIONS</h3>
+Routing -> React Router <br>
+Styling -> styled components <br>
+Remote state -> React Query management <br>
+UI State -> Context API management <br>
+Form -> React Hook Form management <br>
+backend -> Supabase <br>
+
+
+
+
+
+
 ![1](https://github.com/Nuri001/the-wild-oasis/assets/108418308/a53aeba4-92d5-404e-96b2-cb1aa8123d5e)
 ![2](https://github.com/Nuri001/the-wild-oasis/assets/108418308/023efc74-53cd-41e4-9710-f91c68980c16)
 ![3](https://github.com/Nuri001/the-wild-oasis/assets/108418308/cd052263-a40d-4880-b86a-d46092c6f8c2)
